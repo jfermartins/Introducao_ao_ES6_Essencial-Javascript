@@ -1,6 +1,6 @@
 (() => {
     const getName = () => {
-      return "Guilherme Cabrini da Silva";
+      return "Jane Fernanda Martins";
     };
   
     const log = value => {
